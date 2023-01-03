@@ -9,3 +9,10 @@ package-lock.json
 
 # Local Netlify folder
 .netlify
+
+
+# Ignore installed npm modules
+node_modules/
+
+# Ignore Mac DS Store files
+**/.DS_Store
